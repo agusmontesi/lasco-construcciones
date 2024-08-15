@@ -1,184 +1,160 @@
 {
-  "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-  },
+"Header": {
+  "title": "Liderazgo en Construcción con Paneles SIP en Bahía Blanca",
+  "paragraph": ""
+},
+
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Lasco es una empresa creada en el año 2010 con personal  experimentado en áreas afines a la construcción con el propósito de unir voluntades y así desarrollar nuestras propias experiencias y proyectos. Con el transcurso de estos  años hemos podido plasmar nuestro sueño de poner en obras lo que tanto queremos y asi seguir consolidando la idea de construir un  lugar donde todos podamos vivir.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Eficiencia energética superior",
+      "Construcción rápida y precisa",
+      "Durabilidad y resistencia",
+      "Compromiso con el medio ambiente"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Tecnología de vanguardia",
+      "Materiales de alta calidad",
+      "Reducción de costos operativos",
+      "Soporte y garantía de excelencia"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Residencia Moderna",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Centro Comercial",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Edificio Sustentable",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Casa Familiar",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Oficina Corporativa",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Vivienda Unifamiliar",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Proyecto de Expansión",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Condominio de Lujo",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Centro de Distribución",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-home",
+      "name": "Construcción Residencial",
+      "text": "Desarrollamos viviendas unifamiliares y multifamiliares utilizando paneles SIP, ofreciendo un hogar cómodo, eficiente y personalizado."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building",
+      "name": "Proyectos Comerciales",
+      "text": "Ofrecemos soluciones comerciales desde oficinas hasta centros comerciales, garantizando rapidez y eficiencia en la construcción."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-leaf",
+      "name": "Construcción Sustentable",
+      "text": "Nos comprometemos con el medio ambiente, utilizando materiales y técnicas que minimizan el impacto ecológico."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Consultoría y Asesoramiento",
+      "text": "Brindamos asesoría experta en el sistema SIP, desde el diseño hasta la ejecución de proyectos, asegurando resultados óptimos."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-question",
+      "name": "Soporte Técnico",
+      "text": "Nuestro equipo de profesionales está disponible para brindar soporte técnico en todas las etapas de la construcción."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check",
+      "name": "Calidad Garantizada",
+      "text": "Trabajamos con materiales de alta calidad y procesos certificados para garantizar la durabilidad y eficiencia de cada proyecto."
     }
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+  "Clients": [
+  { "name": "YPF GAS SA", "location": "", "img": "ypf" },
+  { "name": "MUNICIPALIDAD DE BAHÍA BLANCA", "location": "", "img": "bbh" },
+  { "name": "UNIVERSIDAD NACIONAL DEL SUR", "location": "Bahía Blanca Buenos Aires", "img": "uns" },
+  { "name": "ASOC. EMPLEADOS DE COMERCIO", "location": "Bahía Blanca Buenos Aires", "img": "petro" },
+  { "name": "PROFERTIL SA", "location": "Polo Petroquímico Bahía Blanca Buenos Aires", "img": "profertil" },
+  { "name": "UTE Politec y Otros", "location": "Parque Industrial Bahía Blanca", "img": "ute" }
+]
+,
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Juan Pérez",
+      "job": "Director General"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Lucas Gómez",
+      "job": "Ingeniero de Proyectos"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Sofía Martínez",
+      "job": "Arquitecta"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Natalia Rodríguez",
+      "job": "Gerente de Operaciones"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Espeche 186, Bahía Blanca, Buenos Aires",
+    "phone": "+54 291 6485952",
+    "email": "info@lasco.com.ar",
+    "instagram": "https://www.instagram.com/lasco_construcciones/"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Asesoramiento Personalizado",
+      "text": "Ofrecemos atención personalizada para ayudarte a encontrar la mejor solución para tu proyecto de construcción."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Comunicación Abierta",
+      "text": "Mantenemos una comunicación constante con nuestros clientes para asegurar que sus necesidades sean cumplidas."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Equipo Experimentado",
+      "text": "Contamos con un equipo de profesionales altamente capacitados y con amplia experiencia en construcción con paneles SIP."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Tecnología Avanzada",
+      "text": "Utilizamos la tecnología más avanzada para garantizar que cada proyecto se realice con la mayor precisión y eficiencia."
     }
   ]
 }

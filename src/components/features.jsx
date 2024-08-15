@@ -2,10 +2,10 @@ import React from "react";
 
 export const Features = (props) => {
   return (
-    <div id="features" className="text-center">
+    <div id="features" className="text-center mb-5">
       <div className="container">
-        <div className="col-md-10 col-md-offset-1 section-title">
-          <h2>Features</h2>
+        <div className="col-md-10 col-md-offset-1 section-title mt-5 ">
+          <h2>Que nos define? </h2>
         </div>
         <div className="row">
           {props.data

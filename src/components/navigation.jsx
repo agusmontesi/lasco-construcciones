@@ -1,5 +1,4 @@
 import React from "react";
-
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -17,9 +16,14 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
+          <div className="title-flex">
+          <img src="/img/logo.jpg" alt="logo" style={{
+            marginRight: '1rem'
+          }}/>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+            Lasco construcciones S.A
+          </a>
+        </div>
         </div>
 
         <div
@@ -29,39 +33,25 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                Nosotros
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+                Servicios
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Contacto
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Referencias
               </a>
             </li>
-            <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
-              </a>
-            </li>
-            <li>
-              <a href="#contact" className="page-scroll">
-                Contact
-              </a>
-            </li>
+          
           </ul>
         </div>
       </div>
