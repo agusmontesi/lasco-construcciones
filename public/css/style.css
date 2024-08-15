@@ -70,6 +70,26 @@ hr {
   margin-bottom: 20px;
   border: 0;
 }
+/* Estilos generales para dispositivos móviles */
+@media screen and (max-width: 570px) {
+  .flex-mobile-client {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los ítems se envuelvan en la siguiente línea */
+    gap: 8px; /* Espaciado entre los ítems */
+  }
+  
+  .flex-mobile-client .col-md-2 {
+    flex: 1 0 48%; /* Flexibilidad de los ítems para que ocupen el 48% del ancho disponible */
+    max-width: 50%; /* Ancho máximo de los ítems */
+    box-sizing: border-box; /* Incluye el padding y border en el ancho total */
+  }
+  .client-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
 /* Navigation */
 #menu {
   padding: 15px;
@@ -86,6 +106,11 @@ hr {
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
+}
+@media screen and (max-width: 768px) {
+  #menu a.navbar-brand {
+font-size: 17px;
+}
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
@@ -229,6 +254,7 @@ a:focus,
   outline-offset: none;
 }
 /* Header Section */
+
 .intro {
   display: table;
   width: 100%;
@@ -254,6 +280,13 @@ a:focus,
   font-weight: 800;
   color: #fa9907;
 }
+
+@media screen and (max-width: 500px) {
+  .intro h1 {
+    font-size: 35px;
+  }
+}
+
 .intro p {
   color: #fff;
   font-size: 22px;

@@ -7,7 +7,7 @@ export const Clients = ({ data }) => {
         <div className="section-title text-center">
           <h2>Nuestros Clientes</h2>
         </div>
-        <div className="row d-flex flex-wrap justify-content-center align-items-center">
+        <div className="row d-flex flex-wrap justify-content-center align-items-center flex-mobile-client">
           {data
             ? data.map((client, index) => (
                 <div key={`${client.name}-${index}`} className="col-md-2 d-flex justify-content-center align-items-center">
